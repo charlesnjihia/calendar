@@ -1,0 +1,28 @@
+export const SETDATE='SETDATE';
+export const MODAL_OPEN='MODAL_OPEN';
+export const MODAL_CLOSE='MODAL_CLOSE';
+export const TIMEFROMOPEN='TIMEFROMOPEN';
+export const TIMEFROMCLOSED='TIMEFROMCLOSED';
+export const TIMETOOPEN='TIMETOOPEN';
+export const TIMETOCLOSED='TIMETOCLOSED';
+export const SETTIMEFROM='SETTIMEFROM';
+export const SETTIMETO='SETTIMETO';
+export const SETTASK='SETTASK';
+export const RESETTODO='RESETTODO';
+export const INCREMENTID='INCREMENTID';
+export const ADDTODO='ADDTODO';
+export const ONORIENTCHANGE='ONORIENTCHANGE';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
